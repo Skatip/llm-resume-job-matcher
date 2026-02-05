@@ -1,2 +1,12 @@
-# llm-resume-job-matcher
-LLM-powered system that matches resumes with job descriptions using explainable scoring and skill gap analysis.
+
+# LLM Resume–Job Matcher
+
+AI system that evaluates resumes against job descriptions using LLMs.
+
+## Features
+- Resume parsing
+- Job–resume similarity scoring
+- Skill gap explanation (JSON output)
+
+## Use case
+Automates resume screening and reduces manual HR effort.
